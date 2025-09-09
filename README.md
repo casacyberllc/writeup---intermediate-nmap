@@ -28,7 +28,7 @@ But the following command showed what ports are open on the server:
 
 <img width="1253" height="336" alt="image" src="https://github.com/user-attachments/assets/bf42389b-4c47-4584-9e99-14622bb17f68" />
 
-I now see port 22, 2222 and 31337 is open. I'm not sure exactly what service is runningon 31337 but if I scroll to the bottom of the output it shows a Linux Kernel, so whatever it is is running on Linux. 
+I now see port 22, 2222 and 31337 are open. I'm not sure exactly what service is running on 31337 but if I scroll to the bottom of the output it shows a Linux Kernel, so whatever it is is running on Linux. 
 
 <hr />
 
