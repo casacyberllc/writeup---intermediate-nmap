@@ -51,7 +51,7 @@ ubuntu:Dafdas!!/str0ng
 
 **Step 3**
 
-I have a username and password on here. Let's try to use it to log onto the machine via SSH. 
+Let's try to use the credentials to log onto the machine via SSH. 
 
 
 <img width="682" height="242" alt="image" src="https://github.com/user-attachments/assets/e75884e4-b97e-4dee-a0f9-0ed29a232ae2" />
@@ -61,7 +61,9 @@ I have a username and password on here. Let's try to use it to log onto the mach
 
 **Step 4**
 
-I logged into the system via ssh using the credentials I found. I used `ls` to see if I could see anything but the results didn't show anything. I figured it might just not have anything in the directory I landed on, so I used `pwd` to confirm where I was in the system. I went backwards and changed the directory to the other user on the server. There, I was able to find the flag. 
+I logged into the system via ssh using the credentials I found. 
+
+I used `ls` to see if I could see anything but it didn't return anything. I figured it might just not have anything in the directory I landed on, so I used `pwd` to confirm where I was in the system. I went backwards and changed the directory to the other user on the server. There, I was able to find the flag. 
 
 
 <img width="687" height="521" alt="image" src="https://github.com/user-attachments/assets/9329574e-3bbe-4651-8ab6-3570a160b382" />
